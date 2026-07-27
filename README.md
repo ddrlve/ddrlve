@@ -12,7 +12,7 @@
 
 Computer Science undergraduate specializing in Intelligent Systems. Passionate about Artificial Intelligence, Local-First technology, and building human-centered responsive interfaces.
 
-✧ **Currently working on:** Indonesian Local Script Recognition
+✧ **Currently working on:** Indonesian Local Script Recognition <br>
 ✧ **Pronouns:** She/Her
 
 ### ੈ✩‧₊˚ Tech Stack
@@ -62,7 +62,7 @@ Computer Science undergraduate specializing in Intelligent Systems. Passionate a
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ddrlve&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ddrlve&layout=compact&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ddrlve&layout=compact&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&hide_border=true&bg_color=00000000&langs_count=8&hide=C" alt="top langs" />
 </p>
 
 <br>
