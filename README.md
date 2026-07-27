@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ddrlve">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4285F4&fontSize=54&height=90&width=666&text=Hi%20there!%20I'm%20Dian" alt="Hi there! I'm Dian" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4285F4&fontSize=54&height=90&width=666&fontFamily=Courier%20New&text=Hi%20there!%20I'm%20Dian" alt="Hi there! I'm Dian" />
   </a>
 </p>
 
