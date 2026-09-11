@@ -12,7 +12,7 @@
 
 Computer Science undergraduate specializing in Intelligent Systems. Passionate about Artificial Intelligence, Local-First technology, and building human-centered responsive interfaces.
 
-✧ **Currently working on:** Indonesian Local Script Recognition <br>
+✧ **Currently working on:** Speech Recognition & Deep Learning <br>
 ✧ **Pronouns:** She/Her
 
 ### ੈ✩‧₊˚ Tech Stack
