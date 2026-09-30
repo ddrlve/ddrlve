@@ -64,6 +64,9 @@ Computer Science undergraduate specializing in Intelligent Systems. Passionate a
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ddrlve&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ddrlve&layout=compact&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&hide_border=true&bg_color=00000000&langs_count=8&hide=C" alt="top langs" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ddrlve&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
 
 <br>
 <p align="center">°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･</p>
